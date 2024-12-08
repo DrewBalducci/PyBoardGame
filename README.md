@@ -1,2 +1,4 @@
 # PyBoardGame
-Python Board Game Project
+Python Board Game Project using tkinter GUI
+
+
